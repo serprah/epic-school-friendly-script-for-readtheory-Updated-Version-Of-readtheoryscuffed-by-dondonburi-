@@ -5,6 +5,7 @@
 // @author       KingSerprah
 // @match        https://readtheoryapp.com/app/student/quiz*
 // @match        https://readtheory.com/app/student/quiz*
+// @match        https://readtheory.org/app/student/quiz*
 // @grant        none
 // @run-at       document-ready
 // ==/UserScript==
@@ -228,7 +229,7 @@ let finishCheck = setInterval(() => {
     if (finishBtn) {
         console.log("Quiz finished. Redirecting to main quiz page...");
         clearInterval(finishCheck);
-        window.location.href = "https://readtheoryapp.com/app/student/quiz";
+        window.location.href = "https://readtheoryapp.com/app/student/quiz"; // edit the redirect link if it is diffent, it could be readtheory.org/app/student/quiz , readtheoryapp.com/app/student/quiz or readtheory.com/app/student/quiz 
     }
 }, 1500);
 })();
