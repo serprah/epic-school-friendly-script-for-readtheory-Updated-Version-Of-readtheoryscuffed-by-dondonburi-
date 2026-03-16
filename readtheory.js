@@ -4,6 +4,8 @@
 // @description  no need to read. only works fro gr 12 quizzes.
 // @author       KingSerprah
 // @match        https://readtheoryapp.com/app/student/quiz*
+// @match        https://readtheory.org/app/student/quiz*
+// @match        https://readtheory.com/app/student/quiz*
 // @grant        none
 // @run-at       document-ready
 // ==/UserScript==
