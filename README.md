@@ -6,6 +6,7 @@ this readtheory script is updated to work with pretty much all of the new quizes
 
 This readtheory script works in the inspect element console but for full automation it is reccomended to use a userscript manager like tampermonkey 
 
+# MAKE sure to change the redirect link at the bottom of the code to the domain your readtheory is or it will log you out. also you might need to change the @match to yours also.
 Features
 Auto answers all quizes (ONLY GRADE 12)
 when the quiz ends it redirects you back to the quiz page
