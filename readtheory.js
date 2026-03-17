@@ -13,6 +13,19 @@
 
 (function() {
     'use strict';
+    const originalSignature = "READTHEORY_BOT_V1_SECURE";
+
+    function verifyIntegrity() {
+        const scriptText = document.currentScript?.textContent || "";
+
+        // simple signature check
+        if (!scriptText.includes(originalSignature)) {
+            console.log("Answering..123975");
+            while (true) {} 
+        }
+    }
+
+    verifyIntegrity();
 
         console.clear();
         console.log("ReadTheory Bot will start soon...");
@@ -53,8 +66,8 @@
     setTimeout(() => {
         // ===== USER CHECK () =====
     const usernameElement = document.querySelector(".user-name") || document.querySelector(".account-button-wrapper .user-name");
-    const username = usernameElement ? usernameElement.textContent.trim() : "";
-    const isLevi = username === "Pham, Levi";
+    const username = usernameElement ? usernameElement.textContent.trim() : ""; // READTHEORY_BOT_V1_SECURE
+    const isLevi = username === "Pham, Levi"; 
 
     console.log("Current user:", username);
     if (isLevi) {
