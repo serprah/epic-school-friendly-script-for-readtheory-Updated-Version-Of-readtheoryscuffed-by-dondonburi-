@@ -15,7 +15,7 @@
     'use strict';
 
         console.clear();
-        console.log("ReadTheory Bot will start in 10 seconds...");
+        console.log("ReadTheory Bot will start soon...");
         // console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
 
     setTimeout(() => {
@@ -124,7 +124,7 @@
         const alltests = [Paints, ABeetleBox, AGoodDeath,ALackBias,APresTrad,AStreetcarDesire,AmericanFamily,Antibiotic,Antonio,ArguePos,Autism,BioAdapt,BonCly,BookRec, Bovine, Capital, Chronic, Concentrated, Concepts,Dismissed,Dracula,
                           Easter, EPCOT, Eric,Even, Experiment, Food,Freedom,Friendly,Frigg,From,Ghost,Giant,Grammar,Helmet,Hiroshima,Home, InImagined, InJeopardy, IntAug, ItsJeep, Killer, LibArts, Maintain, Mary,McCarthy,Minimal, Modern, Moths, MtnTop,
                           New, Novel, Offspring,OverAuth,Plague,PTSD,Predicting,PresMuseum,Retreads,Revenge,Scrimshaw,TheBard,TheBends,TheBrave,TheElectoral,TheEnd,TheGreat,TheIrish,TheLegend,ThePsalms,TheRoots,TheScyth,Theater,Tick,Timeless,TransFats,
-                         Turbines,Unconscious,Veisalgia,WDFard,WhoWrote,Wind,Wright,TheDouble,Apollo,National,Bigfoot,Business,Streetcar,Odyssey,Courtroom,Rugby,Dreams,Egypt];
+                         Turbines,Unconscious,Veisalgia,WDFard,WhoWrote,Wind,Wright,TheDouble,Apollo,National,Bigfoot,Business,Streetcar,Odyssey,Courtroom,Rugby,Dreams,Egypt,Baseball];
 
         try {
         const testTitle = document.querySelector("h2.quiz-header-title").textContent;
