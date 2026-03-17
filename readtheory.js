@@ -16,7 +16,7 @@
 
         console.clear();
         console.log("ReadTheory Bot will start soon...");
-        // console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
+        console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
 //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
     //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
     //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
