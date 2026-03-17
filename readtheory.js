@@ -110,7 +110,7 @@
         const Apollo = {quiztitle:"Apollo 11: The Pinnacle of Human Endeavor", quizanswers: ["D", "E","C","B","C"]};
         const National = {quiztitle:"National Parks: Preserving America's Natural Heritage", quizanswers: ["D", "B","C","B","C"]};
         const Bigfoot = {quiztitle:"Unraveling the Mystique: Bigfoot, An Interstellar Enigma", quizanswers: ["D", "B","C","C","D"]};
-        const Business = {quiztitle:"The Journey of Starting a Small Business", quizanswers: ["B", "D","C","A",""]};
+        const Business = {quiztitle:"The Journey of Starting a Small Business", quizanswers: ["B", "D","C","A","A"]};
         const Courtroom = {quiztitle:"Inside the Courtroom: A Comprehensive Look at Court Procedures", quizanswers: ["C", "D","C","A","A"]};
         const Streetcar = {quiztitle:"A Streetcar Named Desire: Two Viewpoints", quizanswers: ["D", "C","A","E","C"]};
         const Odyssey = {quiztitle:"An Odyssey Through The Solar System: A Journey Beyond The Stars", quizanswers: ["D", "C","B","D","D"]};
