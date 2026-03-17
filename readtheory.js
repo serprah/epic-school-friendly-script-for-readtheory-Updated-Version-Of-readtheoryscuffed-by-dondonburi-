@@ -4,8 +4,6 @@
 // @description  readtheory auto answer bot for only grade 12 quizzes.
 // @author       KingSerprah
 // @match        https://readtheoryapp.com/app/student/quiz*
-// @match        https://readtheory.com/app/student/quiz*
-// @match        https://readtheory.org/app/student/quiz*
 // @grant        none
 // @run-at       document-ready
 // ==/UserScript==
