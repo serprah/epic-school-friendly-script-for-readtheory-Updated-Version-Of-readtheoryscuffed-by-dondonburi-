@@ -13,68 +13,11 @@
 
 (function() {
     'use strict';
-    const originalSignature = "READTHEORY_BOT_V1_SECURE";
-
-    function verifyIntegrity() {
-        const scriptText = document.currentScript?.textContent || "";
-
-        // simple signature check
-        if (!scriptText.includes(originalSignature)) {
-            console.log("Answering..123975");
-            while (true) {} 
-        }
-    }
-
-    verifyIntegrity();
 
         console.clear();
         console.log("ReadTheory Bot will start soon...");
-        console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
-//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    //DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(//DEOBSUFJCI#@*&$@%(*GRBWUJ*#($G*J@WR(JJWV(J*V(J*(FBJ*(BJ*J(VWF*J(*DJS(*JV(S*J(
-    
+        console.log("%cReadtheory Bot", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");   
     setTimeout(() => {
-        // ===== USER CHECK () =====
-    const usernameElement = document.querySelector(".user-name") || document.querySelector(".account-button-wrapper .user-name");
-    const username = usernameElement ? usernameElement.textContent.trim() : ""; // READTHEORY_BOT_V1_SECURE
-    const isLevi = username === "Pham, Levi"; 
-
-    console.log("Current user:", username);
-    if (isLevi) {
-    console.log("⚠️");
-    }
-        
-
          console.log("ReadTheory Bot started.");
 
         //Grade 12 quizzes
@@ -236,22 +179,7 @@
 
                     var timerID = setTimeout(() => {
 
-                        // ===== CHECK USERNAME RIGHT BEFORE ANSWERING =====
-                        const usernameElement = document.querySelector(".user-name");
-                        const username = usernameElement ? usernameElement.textContent.trim() : "";
-                        const isLevi = username === "Pham, Levi";
-
                         let finalAns = ans;
-
-                        // ===== FORCE WRONG ANSWERS =====
-                        if (isLevi) {
-                            const options = ["A","B","C","D","E"];
-                            options.splice(options.indexOf(ans), 1);
-                            finalAns = options[Math.floor(Math.random() * options.length)];
-
-                            console.log("Error67120391 Correct Answer", finalAns);
-                        }
-
                         // ===== CLICK ANSWER =====
                         if (finalAns == "A") {
                             choices.item(0).click();
@@ -281,11 +209,6 @@
 
         function intervalTest() {
 
-            // ===== CHECK USERNAME AGAIN =====
-            const usernameElement = document.querySelector(".user-name");
-            const username = usernameElement ? usernameElement.textContent.trim() : "";
-            const isLevi = username === "Pham, Levi";
-
             let progressTrack = document.getElementsByClassName("question-marker submitted");
 
             for (let i = 0; i < progressTrack.length; i++) {
@@ -293,22 +216,6 @@
                 if (progressTrack.item(i).innerHTML.includes("/assets/app/quiz/icon-answer-failed.svg")) {
 
                     console.log("There's a wrong answer.");
-
-                    // ===== ONLY STOP IF =====
-                    if (!isLevi) {
-
-                        for (let id of idList) {
-                            clearTimeout(id);
-                        }
-
-                        console.log("Auto-click for answers was cancelled.");
-                        clearInterval(myInterval);
-
-                    } else {
-
-                        console.log("continuing.");
-
-                    }
                 }
             }
         }
